@@ -1,0 +1,74 @@
+<style>
+
+html {
+  
+  
+}
+
+
+
+div {
+  
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+vertical-align: baseline;
+  
+}
+
+ul {
+  
+  float: left;
+}
+
+.logo {
+
+text-align: center;
+display: block;
+margin: 198px 0px 18px 0px;
+  
+}
+
+.bar { 
+text-align: center;
+display: block;
+margin: 50px 0px 18px 0px;
+padding: 8px 16px; 
+}
+
+.buttons {
+  
+text-align: center;
+display: block;
+margin: 5px 0px 18px 0px;
+  
+}
+
+</style>
+
+<html>
+  <div class="navbar"> </div>
+  <ul class="top">
+    <li>About</li>
+    <li>Store</li>
+    </div>
+  <div class="nav-bar a">
+     <li>Gmail</li>
+     <li>Images</li>
+  </div>
+  </ul>
+  
+  <div class="logo"> <img src ="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"> </div>
+  
+<div class="bar"> <input text="search"></div>
+  
+<div class ="buttons">  
+  
+     <input id="search-button" type="submit" name="search   submit" value="Google Search">
+     
+     <input id="lucky-button" type="submit" name="search submit" value="I'm Feeling Lucky"></div> 
+     
+<div class="footer"></div>
+     
+ 
